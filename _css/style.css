@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 /* some comment */
 body{
   background-color: red;
+=======
+h1{
+  background-color: green;
+  border: 1px solid green;
+}
+p{
+  font-size: 10px;
+>>>>>>> bugfix
 }
